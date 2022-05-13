@@ -1,5 +1,5 @@
 # CustomerSegmentation
-Using Python to conduct data analysis fro customer segmentation to support marketing strategies
+Using Python to conduct data analysis for customer segmentation to support marketing strategies
 
 
 ### Project Brief
