@@ -1,7 +1,8 @@
-# CustomerBehaviors
+# Instacart Customer Behavior Analysis
+
 Using Python to conduct data analysis for customer segmentation to support marketing strategies
 
-![ ](https://github.com/elvac/Image/blob/main/instacart_img.png)
+<img src=https://github.com/elvac/Image/blob/main/instacart_img.png width="800">
 
 
 ### Project Brief
@@ -17,9 +18,7 @@ The data would be a number of open-source data sets from Instacart, including ov
 
 In this project, the relevant data sets had more than 3 million rows of order data and order details, as well as customer detailed information. Hence, the analytical process would be used Python to **derive variables** to tag for customer purchasing behaviors and profiles. Subsequently, used **aggregation** and **visualizing** to compare how the behaviors were related to customer profiles. The derived variables were as below:
 
-![ ](https://github.com/elvac/Image/blob/main/instacart_vates.png)
-
-
+<img src=https://github.com/elvac/Image/blob/main/instacart_vates.png width="680">
 
 ### Outputs
 The outcome of the data analysis told what kinds of customer attributes were sensitive to distinguish different purchasing behaviors. Finally, answered client’s specific questions and gave recommendations. The outputs included Excel files for the analytical process and the aforementioned project outcome.
